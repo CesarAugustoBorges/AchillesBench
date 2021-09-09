@@ -1,0 +1,11 @@
+avoid_repeatable_faults: no
+faults:
+  mode_offset:      
+    unique_block:
+      persistent:
+        bit_flip:
+          write:
+            - when_operation: 262143
+            - when_operation: 524287
+            - when_operation: 786431
+            - when_operation: 1048575

@@ -1,0 +1,6 @@
+utils/DEDISbench-utils.o: utils/utils.c /usr/include/stdc-predef.h \
+ utils/utils.h
+
+/usr/include/stdc-predef.h:
+
+utils/utils.h:

@@ -1,0 +1,134 @@
+faults:
+ mode_hash:
+  next_block:
+    persistent:
+      bit_flip:
+        - when_operation: 262143
+          operation: "none"
+        - when_operation: 524287
+          operation: "none"
+        - when_operation: 786431
+          operation: "none"
+        - when_operation: 1048575
+          operation: "none"
+        - when_operation: 1310719
+          operation: "none"
+        - when_operation: 1572863
+          operation: "none"
+        - when_operation: 1835007
+          operation: "none"
+        - when_operation: 2097151
+          operation: "none"
+        - when_operation: 2359295
+          operation: "none"
+        - when_operation: 2621439
+          operation: "none"
+        - when_operation: 2883583
+          operation: "none"
+        - when_operation: 3145727
+          operation: "none"
+        - when_operation: 3407871
+          operation: "none"
+        - when_operation: 3670015
+          operation: "none"
+        - when_operation: 3932159
+          operation: "none"
+        - when_operation: 4194303
+          operation: "none"
+        - when_operation: 4456447
+          operation: "none"
+        - when_operation: 4718591
+          operation: "none"
+        - when_operation: 4980735
+          operation: "none"
+        - when_operation: 5242879
+          operation: "none"
+        - when_operation: 5505023
+          operation: "none"
+        - when_operation: 5767167
+          operation: "none"
+        - when_operation: 6029311
+          operation: "none"
+        - when_operation: 6291455
+          operation: "none"
+        - when_operation: 6553599
+          operation: "none"
+        - when_operation: 6815743
+          operation: "none"
+        - when_operation: 7077887
+          operation: "none"
+        - when_operation: 7340031
+          operation: "none"
+        - when_operation: 7602175
+          operation: "none"
+        - when_operation: 7864319
+          operation: "none"
+        - when_operation: 8126463
+          operation: "none"
+        - when_operation: 8388607
+          operation: "none"
+        - when_operation: 8650751
+          operation: "none"
+        - when_operation: 8912895
+          operation: "none"
+        - when_operation: 9175039
+          operation: "none"
+        - when_operation: 9437183
+          operation: "none"
+        - when_operation: 9699327
+          operation: "none"
+        - when_operation: 9961471
+          operation: "none"
+        - when_operation: 10223615
+          operation: "none"
+        - when_operation: 10485759
+          operation: "none"
+        - when_operation: 10747903
+          operation: "none"
+        - when_operation: 11010047
+          operation: "none"
+        - when_operation: 11272191
+          operation: "none"
+        - when_operation: 11534335
+          operation: "none"
+        - when_operation: 11796479
+          operation: "none"
+        - when_operation: 12058623
+          operation: "none"
+        - when_operation: 12320767
+          operation: "none"
+        - when_operation: 12582911
+          operation: "none"
+        - when_operation: 12845055
+          operation: "none"
+        - when_operation: 13107199
+          operation: "none"
+        - when_operation: 13369343
+          operation: "none"
+        - when_operation: 13631487
+          operation: "none"
+        - when_operation: 13893631
+          operation: "none"
+        - when_operation: 14155775
+          operation: "none"
+        - when_operation: 14417919
+          operation: "none"
+        - when_operation: 14680063
+          operation: "none"
+        - when_operation: 14942207
+          operation: "none"
+        - when_operation: 15204351
+          operation: "none"
+        - when_operation: 15466495
+          operation: "none"
+        - when_operation: 15728639
+          operation: "none"
+        - when_operation: 15990783
+          operation: "none"
+        - when_operation: 16252927
+          operation: "none"
+        - when_operation: 16515071
+          operation: "none"
+        - when_operation: 16777215
+          operation: "none"
+

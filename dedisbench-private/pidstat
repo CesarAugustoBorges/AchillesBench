@@ -1,0 +1,36 @@
+Linux 5.8.0-44-generic (cesar-VirtualBox) 	12/04/2021 	_x86_64_	(1 CPU)
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+12:39:35        0    154455    0,0%    2,0%    0,0%    3,0%    2,0%     0   7285,15      2,97   63,1M   31,7M   0,7%  ./DEDISbench -p -w -s200 
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+12:39:36        0    154455    0,0%    0,0%    0,0%    0,0%    0,0%     0      0,00      0,00   63,1M   31,7M   0,7%  ./DEDISbench -p -w -s200 
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+12:39:37        0    154455    0,0%    0,0%    0,0%    0,0%    0,0%     0      0,00      0,00   63,1M   31,7M   0,7%  ./DEDISbench -p -w -s200 
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+12:39:38        0    154455    0,0%    0,0%    0,0%    0,0%    0,0%     0      0,00      0,00   63,1M   31,7M   0,7%  ./DEDISbench -p -w -s200 
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+12:39:39        0    154455    0,0%    0,0%    0,0%    0,0%    0,0%     0      0,00      0,00   63,1M   31,7M   0,7%  ./DEDISbench -p -w -s200 
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+12:39:40        0    154455    1,0%    1,0%    0,0%    1,0%    2,0%     0     15,84      0,00   63,1M   32,9M   0,7%  ./DEDISbench -p -w -s200 
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+12:39:41        0    154455    2,0%    2,0%    0,0%    0,0%    4,0%     0      3,96      0,00   63,1M   32,9M   0,7%  ./DEDISbench -p -w -s200 
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+12:39:42        0    154455    3,0%    1,0%    0,0%    0,0%    4,0%     0      4,00      0,00   63,1M   32,9M   0,7%  ./DEDISbench -p -w -s200 
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+12:39:43        0    154455    3,0%    1,0%    0,0%    0,0%    4,0%     0      3,00      0,00   63,1M   32,9M   0,7%  ./DEDISbench -p -w -s200 
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+12:39:44        0    154455    3,0%    1,0%    0,0%    1,0%    4,0%     0      3,96      0,00   63,1M   32,9M   0,7%  ./DEDISbench -p -w -s200 
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+12:39:45        0    154455    3,0%    0,0%    0,0%    0,0%    3,0%     0      3,00      0,00   63,1M   32,9M   0,7%  ./DEDISbench -p -w -s200 
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command

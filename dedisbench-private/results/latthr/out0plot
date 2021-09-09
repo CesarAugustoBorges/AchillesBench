@@ -1,0 +1,21 @@
+set multiplot layout 2,1 rowsfirst title "Latency and Throughput Plots ('conf/dist_kernels' data set)" noenhanced
+set grid ytics lt 0 lw 1 lc rgb "#bbbbbb"
+set offsets 0,30,0.07,0
+set ylabel "Latency (ms)"
+set yrange [0.0:*]
+set xtics rotate by 45 right
+set xtics nomirror
+set ytics nomirror
+set xrange [0.0:*]
+set pointsize 1.0
+set key off
+plot 'outsnaplatwrite0compat' using 1:2 with linespoints lc rgb 'blue' ti 'Latency (miliseconds)'#,"" using 1:2:(sprintf("%d",$3)) with labels offset char 0,1 notitle
+set grid ytics lt 0 lw 1 lc rgb "#bbbbbb"
+set offsets 0,30,1000,0
+set xlabel "Time(s)"
+set ylabel "Throughput (blocks/s)"
+set autoscale y
+set xrange [0.0:*]
+set pointsize 1.0
+plot 'outsnapthrwrite0compat' using 1:2 with linespoints lc rgb 'red' ti 'Throughput (blocks/second)'#, "" using 1:2:(sprintf("%d",$3)) with labels offset char 0,1 notitle
+unset multiplot

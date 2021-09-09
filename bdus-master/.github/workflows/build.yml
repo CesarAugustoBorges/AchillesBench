@@ -1,0 +1,188 @@
+# ---------------------------------------------------------------------------- #
+
+name: build # the name is mostly to look good on the status badge
+on:
+  push:
+  pull_request:
+
+jobs:
+
+  # BUILD DOCUMENTATION
+
+  build-documentation:
+
+    name: Build documentation
+
+    runs-on: ubuntu-20.04
+
+    steps:
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get install -y doxygen
+          pip3 install -r docs/requirements.txt
+
+      - name: Build HTML documentation
+        run: O=-W make -C docs html
+
+      - name: Check documentation links
+        run: O=-W make -C docs linkcheck
+
+  # TESTS
+
+  tests:
+
+    name: Run test "${{ matrix.test }}" on Ubuntu ${{ matrix.ubuntu }}
+
+    strategy:
+      fail-fast: false
+      matrix:
+        test:
+          - build-examples
+          - verify
+          - blktests
+        ubuntu:
+          - '16.04'
+          - '18.04'
+          - '20.04'
+
+    runs-on: ubuntu-${{ matrix.ubuntu }}
+
+    env:
+      FIO: '3.22'
+      TEST: "${{ matrix.test }}"
+
+    steps:
+
+      - name: Set up fio build cache
+        id: cache-fio
+        uses: actions/cache@v2
+        with:
+          path: ~/fio-fio-${{ env.FIO }}
+          key: fio-${{ env.FIO }}
+
+      - name: Install dependencies
+        run: sudo apt-get install -y "linux-headers-$(uname -r)" libaio-dev
+
+      - name: Build fio
+        if: steps.cache-fio.outputs.cache-hit != 'true'
+        run: |
+          cd ~
+          wget --no-cache https://github.com/axboe/fio/archive/fio-${FIO}.tar.gz
+          tar xf fio-${FIO}.tar.gz
+          cd fio-fio-${FIO}
+          ./configure
+          make
+
+      - name: Install fio
+        run: sudo make -C ~/fio-fio-${FIO} install
+
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run test
+        run: |
+          sudo CC="$(which clang)" KBDUS_DEBUG=1 make install clean
+          cd tests/tests/
+          sudo CC="$(which clang)" "./${TEST}.bash"
+
+  # BUILD KBDUS
+
+  build-kbdus:
+
+    name: Build kbdus on Linux ${{ matrix.kernel }}
+
+    strategy:
+      fail-fast: false
+      matrix:
+        kernel:
+          - '5.8'
+          - '5.7'
+          - '5.6'
+          - '5.5'
+          - '5.4'
+          - '5.3'
+          - '5.2'
+          - '5.1'
+          - '5.0'
+          - '4.20'
+          - '4.19'
+          - '4.18'
+          - '4.17'
+          - '4.16'
+          - '4.15'
+          - '4.14'
+          - '4.13'
+          - '4.12'
+          - '4.11'
+          - '4.10'
+          - '4.9'
+          - '4.8'
+          - '4.7'
+          - '4.6'
+          - '4.5'
+          - '4.4'
+          - '4.3'
+          - '4.2'
+          - '4.1'
+          - '4.0'
+
+    runs-on: ubuntu-16.04 # to avoid compiler version issues with older kernels
+
+    env:
+      LINUX: "${{ matrix.kernel }}"
+      SPARSE: "0.6.2"
+
+    steps:
+
+      - name: Set up Sparse build cache
+        id: cache-sparse
+        uses: actions/cache@v2
+        with:
+          path: ~/sparse-${{ env.SPARSE }}
+          key: sparse-${{ env.SPARSE }}-cache # TODO: remove -cache on 9th Sept.
+
+      - name: Set up Linux build cache
+        id: cache-linux
+        uses: actions/cache@v2
+        with:
+          path: ~/linux-${{ env.LINUX }}
+          key: linux-${{ env.LINUX }}-cache # TODO: remove -cache on 9th Sept.
+
+      - name: Install dependencies
+        run: sudo apt-get install -y bc libelf-dev
+
+      - name: Build Sparse
+        if: steps.cache-sparse.outputs.cache-hit != 'true'
+        run: |
+          wget -qO - https://mirrors.edge.kernel.org/pub/software/devel/sparse/dist/sparse-${SPARSE}.tar.xz |
+              tar -C ~ -xJf -
+          make -C ~/sparse-${SPARSE} -j $(nproc) sparse
+
+      - name: Build Linux
+        if: steps.cache-linux.outputs.cache-hit != 'true'
+        run: |
+          wget -qO - https://mirrors.edge.kernel.org/pub/linux/kernel/v${LINUX:0:1}.x/linux-${LINUX}.tar.xz |
+              tar -C ~ -xJf -
+          make -C ~/linux-${LINUX} -j $(nproc) defconfig vmlinux clean
+
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Build kbdus
+        run: |
+          export PATH=~/sparse-${SPARSE}:"${PATH}"
+          export KBDUS_KDIR=~/linux-${LINUX}
+          export KBDUS_SPARSE=1
+          KBDUS_DEBUG=0 make clean kbdus.ko
+          KBDUS_DEBUG=1 make clean kbdus.ko
+
+# ---------------------------------------------------------------------------- #

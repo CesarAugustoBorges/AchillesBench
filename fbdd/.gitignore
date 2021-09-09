@@ -1,0 +1,7 @@
+/.vscode
+/mountdir
+*.o
+*.so
+fbdd.log
+fbddriver
+ram

@@ -1,0 +1,4467 @@
+Process 0:
+Total I/O operations 7966997
+Throughput: 26562.912 blocks/second
+Latency: 0.024 miliseconds
+Process 0:
+Total I/O operations 9191262
+Throughput: 30731.912 blocks/second
+Latency: 0.023 miliseconds
+Process 0:
+Total I/O operations 6434378
+Throughput: 21448.902 blocks/second
+Latency: 0.035 miliseconds
+Process 0:
+Total I/O operations 5289656
+Throughput: 17647.817 blocks/second
+Latency: 0.040 miliseconds
+Process 0:
+Total I/O operations 4710246
+Throughput: 15708.676 blocks/second
+Latency: 0.048 miliseconds
+Process 0:
+Total I/O operations 925380
+Throughput: 15546.420 blocks/second
+Latency: 0.051 miliseconds
+Process 0:
+Total I/O operations 2109298
+Throughput: 35282.446 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 2868439
+Throughput: 48519.274 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 2135831
+Throughput: 35641.503 blocks/second
+Latency: 0.016 miliseconds
+Process 0:
+Total I/O operations 1491430
+Throughput: 24967.812 blocks/second
+Latency: 0.025 miliseconds
+Process 0:
+Total I/O operations 1701333
+Throughput: 28350.788 blocks/second
+Latency: 0.023 miliseconds
+Process 0:
+Total I/O operations 1699090
+Throughput: 28557.724 blocks/second
+Latency: 0.023 miliseconds
+Process 0:
+Total I/O operations 1397442
+Throughput: 23350.897 blocks/second
+Latency: 0.028 miliseconds
+Process 0:
+Total I/O operations 2646521
+Throughput: 44254.486 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 2546816
+Throughput: 42790.392 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 2103894
+Throughput: 35217.649 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 16053.176 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 18095.709 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 17761.743 blocks/second
+Latency: 0.037 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 34242.911 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 11746.891 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 12212.575 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 32060.113 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 2688091
+Throughput: 45198.009 blocks/second
+Latency: 0.016 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 31698.861 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 16741.874 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 91888.011 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 30494.342 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 12135.002 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 73924.343 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 29097.522 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 80961.417 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 18816.612 blocks/second
+Latency: 0.027 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 14541.323 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 25718.304 blocks/second
+Latency: 0.020 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 23553.225 blocks/second
+Latency: 0.023 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 18240.114 blocks/second
+Latency: 0.035 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 17971.218 blocks/second
+Latency: 0.043 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 10472.489 blocks/second
+Latency: 0.077 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 13317.380 blocks/second
+Latency: 0.060 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 38409.602 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 42475.527 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 14549.588 blocks/second
+Latency: 0.047 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 15912.481 blocks/second
+Latency: 0.052 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 17118.021 blocks/second
+Latency: 0.034 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 12317.760 blocks/second
+Latency: 0.062 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 24893.038 blocks/second
+Latency: 0.017 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 18665.694 blocks/second
+Latency: 0.035 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 9517.790 blocks/second
+Latency: 0.019 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 15501.060 blocks/second
+Latency: 0.034 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 14574.438 blocks/second
+Latency: 0.032 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 14546.281 blocks/second
+Latency: 0.039 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 22650.858 blocks/second
+Latency: 0.034 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 6802.721 blocks/second
+Latency: 0.016 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 15609.756 blocks/second
+Latency: 0.033 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 13502.822 blocks/second
+Latency: 0.065 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 6332.402 blocks/second
+Latency: 0.048 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 8585.994 blocks/second
+Latency: 0.015 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 10592.957 blocks/second
+Latency: 0.043 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 12903.876 blocks/second
+Latency: 0.022 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 15240.817 blocks/second
+Latency: 0.017 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 14518.233 blocks/second
+Latency: 0.016 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 13231.342 blocks/second
+Latency: 0.027 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 15220.881 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 15238.095 blocks/second
+Latency: 0.023 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 16676.438 blocks/second
+Latency: 0.015 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 12492.070 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 10343.434 blocks/second
+Latency: 0.015 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 10186.217 blocks/second
+Latency: 0.029 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 14638.609 blocks/second
+Latency: 0.015 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 14441.248 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 9550.457 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 12088.587 blocks/second
+Latency: 0.037 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 12433.220 blocks/second
+Latency: 0.015 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 13351.413 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 10745.016 blocks/second
+Latency: 0.015 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 11018.335 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 14363.463 blocks/second
+Latency: 0.056 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 19851.117 blocks/second
+Latency: 0.031 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 14312.870 blocks/second
+Latency: 0.016 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 21087.315 blocks/second
+Latency: 0.038 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 10686.704 blocks/second
+Latency: 0.054 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 24518.724 blocks/second
+Latency: 0.022 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 18683.404 blocks/second
+Latency: 0.044 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 28828.829 blocks/second
+Latency: 0.025 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 19577.853 blocks/second
+Latency: 0.029 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 10663.556 blocks/second
+Latency: 0.073 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 14076.762 blocks/second
+Latency: 0.021 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 19945.462 blocks/second
+Latency: 0.018 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 22268.615 blocks/second
+Latency: 0.026 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 15254.439 blocks/second
+Latency: 0.025 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 20179.726 blocks/second
+Latency: 0.030 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 10179.331 blocks/second
+Latency: 0.082 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 13990.600 blocks/second
+Latency: 0.036 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 15836.684 blocks/second
+Latency: 0.040 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 12162.676 blocks/second
+Latency: 0.056 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 15111.269 blocks/second
+Latency: 0.027 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 17727.304 blocks/second
+Latency: 0.046 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 20315.848 blocks/second
+Latency: 0.038 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 28654.578 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 19885.040 blocks/second
+Latency: 0.028 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 24380.952 blocks/second
+Latency: 0.020 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 17294.960 blocks/second
+Latency: 0.041 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 10747.722 blocks/second
+Latency: 0.073 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 4175.706 blocks/second
+Latency: 0.193 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 17240.218 blocks/second
+Latency: 0.047 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 26792.255 blocks/second
+Latency: 0.020 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 10035.280 blocks/second
+Latency: 0.071 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 23381.131 blocks/second
+Latency: 0.030 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 16806.723 blocks/second
+Latency: 0.039 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 13460.224 blocks/second
+Latency: 0.034 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 10427.274 blocks/second
+Latency: 0.078 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 247.123 blocks/second
+Latency: 3.732 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 1305.190 blocks/second
+Latency: 0.567 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 21297.660 blocks/second
+Latency: 0.030 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 21127.865 blocks/second
+Latency: 0.041 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 19774.142 blocks/second
+Latency: 0.036 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 1375.289 blocks/second
+Latency: 0.559 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 21430.664 blocks/second
+Latency: 0.028 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 14908.597 blocks/second
+Latency: 0.038 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 23125.773 blocks/second
+Latency: 0.033 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 25585.928 blocks/second
+Latency: 0.023 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 13990.294 blocks/second
+Latency: 0.045 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 19856.044 blocks/second
+Latency: 0.030 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 23078.865 blocks/second
+Latency: 0.031 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 16668.077 blocks/second
+Latency: 0.034 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 19672.786 blocks/second
+Latency: 0.040 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 1344.013 blocks/second
+Latency: 0.593 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 1581.495 blocks/second
+Latency: 0.465 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 1317.526 blocks/second
+Latency: 0.585 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 1260.436 blocks/second
+Latency: 0.605 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 19077.854 blocks/second
+Latency: 0.041 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 19762.541 blocks/second
+Latency: 0.042 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 1277.349 blocks/second
+Latency: 0.597 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 28181.418 blocks/second
+Latency: 0.024 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 1012.558 blocks/second
+Latency: 0.705 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 1448.447 blocks/second
+Latency: 0.422 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 887.385 blocks/second
+Latency: 0.855 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 1204.049 blocks/second
+Latency: 0.535 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 1325.168 blocks/second
+Latency: 0.522 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 2853.894 blocks/second
+Latency: 0.309 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 16548.158 blocks/second
+Latency: 0.044 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 10805.791 blocks/second
+Latency: 0.060 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 28378.229 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 14614.375 blocks/second
+Latency: 0.040 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 24900.302 blocks/second
+Latency: 0.015 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 31589.339 blocks/second
+Latency: 0.022 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 12705.345 blocks/second
+Latency: 0.068 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 1301.984 blocks/second
+Latency: 0.251 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 1557.282 blocks/second
+Latency: 0.162 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 2661.842 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 4867.198 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 3350.741 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 17199.678 blocks/second
+Latency: 0.051 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 25399.345 blocks/second
+Latency: 0.034 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 42816.525 blocks/second
+Latency: 0.019 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 32569.975 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 12858.506 blocks/second
+Latency: 0.074 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 22749.489 blocks/second
+Latency: 0.020 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 33902.794 blocks/second
+Latency: 0.025 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 23274.843 blocks/second
+Latency: 0.033 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 15232.655 blocks/second
+Latency: 0.061 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 16261.195 blocks/second
+Latency: 0.016 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 28051.720 blocks/second
+Latency: 0.031 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 33337.674 blocks/second
+Latency: 0.024 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 35880.222 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 45294.102 blocks/second
+Latency: 0.018 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 51031.596 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 48841.447 blocks/second
+Latency: 0.017 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 48599.905 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 44195.080 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 51303.119 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 59414.673 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 61557.698 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 49215.626 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 57038.456 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 51575.469 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 47110.784 blocks/second
+Latency: 0.018 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 127936.032 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 46309.696 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 34137.885 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 30215.403 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 22436.459 blocks/second
+Latency: 0.028 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 57898.903 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 26137.118 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 55220.017 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 26429.899 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 25454.907 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 24080.519 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 27327.071 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 116841.625 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 108222.363 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 104703.476 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2525.639 blocks/second
+Latency: 0.068 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2641.681 blocks/second
+Latency: 0.093 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 14040.476 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 29520.295 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 179460.217 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 3202.722 blocks/second
+Latency: 0.139 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 149227.630 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 9324.009 blocks/second
+Latency: 0.044 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 9301.650 blocks/second
+Latency: 0.042 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 8976.314 blocks/second
+Latency: 0.046 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 8656.252 blocks/second
+Latency: 0.049 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 9117.783 blocks/second
+Latency: 0.044 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 3209.951 blocks/second
+Latency: 0.112 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 7354.209 blocks/second
+Latency: 0.050 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2018.291 blocks/second
+Latency: 0.096 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 3244.161 blocks/second
+Latency: 0.071 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 2838.284 blocks/second
+Latency: 0.086 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 8350.554 blocks/second
+Latency: 0.038 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 3723.108 blocks/second
+Latency: 0.074 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 46950.940 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 33728.590 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 25539.981 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 39275.851 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 28423.916 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 71598.378 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 68183.937 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 61270.404 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 58285.805 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 67210.124 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 52517.668 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 70678.207 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 46894.606 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 69301.570 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 61406.349 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 54391.705 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 82215.978 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 87200.886 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 55661.854 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 65326.120 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 66631.095 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 8855.466 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 76874.568 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 54563.862 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 51668.635 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 49512.131 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 58581.236 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 45221.692 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 60415.831 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 51170.321 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 41433.334 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 57624.562 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 62371.329 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 49692.817 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 54320.726 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 60117.182 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 47116.420 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 49701.500 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 39260.492 blocks/second
+Latency: 0.015 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 47689.127 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 78859.009 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 68628.721 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 60639.797 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 69519.878 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 69514.215 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 59540.884 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 63615.128 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 50363.958 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 75595.388 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 61418.626 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 61608.808 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 57331.616 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 56805.364 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 66132.497 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 77767.821 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 76919.995 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 71035.471 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 64584.218 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 59666.937 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 66283.465 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 15360
+Throughput: 60349.603 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 114474.546 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 111019.799 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 113271.580 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 128338.493 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 107449.481 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 146004.968 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 123542.882 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 130911.136 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 137724.374 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 102014.386 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 129935.388 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 62854.940 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 79137.402 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 84551.234 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 92457.491 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 30276.152 blocks/second
+Latency: 0.016 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 36765.762 blocks/second
+Latency: 0.018 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 36224.706 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 65523.420 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 26317.142 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 52963.691 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 1663.493 blocks/second
+Latency: 0.187 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 45249.669 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 51215.365 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 51159.073 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 81741.477 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 73446.190 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 31470.896 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 21989.349 blocks/second
+Latency: 0.035 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 66295.481 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 30828.516 blocks/second
+Latency: 0.016 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 103288.279 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 135701.034 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 27702.630 blocks/second
+Latency: 0.022 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 50368.913 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 20840.117 blocks/second
+Latency: 0.018 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 45466.655 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 68184.845 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 42870.301 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 33947.752 blocks/second
+Latency: 0.018 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 35952.531 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 60150.376 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 85120.532 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 55166.469 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 49301.878 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 25380.459 blocks/second
+Latency: 0.029 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 58789.758 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 26491.437 blocks/second
+Latency: 0.025 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 78329.381 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 72711.780 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 51853.352 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 40245.244 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 50879.459 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 25972.708 blocks/second
+Latency: 0.028 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 28420.760 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 39872.284 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 54369.757 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 102012.353 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 62496.186 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 68611.554 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 83151.980 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 75800.195 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 68780.226 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 61790.973 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 80303.648 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 36538.544 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 85078.099 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 93393.163 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 94983.675 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 132855.883 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 104264.245 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 64242.515 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 93318.266 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 73647.871 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 68915.390 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 76835.344 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 72584.990 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 76844.570 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 71692.618 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 101121.820 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 76251.750 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 53419.026 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 144493.989 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 62446.640 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 83591.837 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 69657.968 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 63150.624 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 2603.086 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 65494.922 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 102105.935 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 67705.165 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 57273.256 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 64749.475 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 63676.840 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 74125.550 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 73688.149 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 76297.201 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 52737.835 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 70782.758 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 55466.482 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 59915.276 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 79577.246 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 81632.653 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 103138.471 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 95351.609 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 55022.998 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 66469.336 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 67395.024 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 58899.319 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 85581.520 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 65277.813 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 78020.236 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 125903.703 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 75007.325 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 16491.551 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 77470.117 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 21083.147 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 70527.302 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 5613.370 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 81471.580 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 5255.843 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 82048.652 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 5263.136 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 62649.895 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 5928.822 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 53308.900 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 8780.083 blocks/second
+Latency: 0.048 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 65572.091 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 5731.313 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 77285.352 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 14397.390 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 79997.500 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 20344.910 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 46128.620 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 12581.213 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 46082.120 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 4666.228 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 50661.970 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 13601.177 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 34521.819 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 35646.156 blocks/second
+Latency: 0.019 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 68101.407 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 28667.734 blocks/second
+Latency: 0.030 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 47804.896 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3412.523 blocks/second
+Latency: 0.097 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3010.192 blocks/second
+Latency: 0.118 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 2856.346 blocks/second
+Latency: 0.134 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 2397.704 blocks/second
+Latency: 0.105 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 2484.540 blocks/second
+Latency: 0.159 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 2642.859 blocks/second
+Latency: 0.109 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 2682.704 blocks/second
+Latency: 0.123 miliseconds
+Process 0:
+Total I/O operations 7680
+Throughput: 58526.325 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 7680
+Throughput: 54887.723 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 7680
+Throughput: 58328.966 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 7680
+Throughput: 3817.782 blocks/second
+Latency: 0.084 miliseconds
+Process 0:
+Total I/O operations 7680
+Throughput: 3554.853 blocks/second
+Latency: 0.082 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 3840.822 blocks/second
+Latency: 0.064 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 76618.376 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 109591.856 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 113196.701 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 86180.778 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 4421.100 blocks/second
+Latency: 0.077 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 10150.658 blocks/second
+Latency: 0.031 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 111307.735 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 15219.890 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 113928.670 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 98170.802 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 28590.893 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 79535.216 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 28622.220 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 80825.940 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 30971.176 blocks/second
+Latency: 0.001 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 38905.775 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 30136.615 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 23527.357 blocks/second
+Latency: 0.028 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 74639.921 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 23551.600 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 74332.172 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 28017.182 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 70191.794 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 25321.589 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 80191.708 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 25270.224 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 89873.440 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 26042.991 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 79545.101 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 28058.792 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 107957.660 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 41409.207 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 79946.286 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 38083.904 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 64887.334 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 29428.670 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 86002.721 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 68042.580 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 65988.736 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 62547.338 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 78789.837 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 81868.914 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 103011.891 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 88736.373 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 82282.041 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 90398.672 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 84181.450 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 67523.013 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 93898.436 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 100819.156 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 79494.465 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 78865.082 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 123373.494 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 16143.272 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 21945.992 blocks/second
+Latency: 0.023 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 106489.185 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 34293.369 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 27087.081 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 39548.895 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 50582.889 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 60150.376 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 50043.984 blocks/second
+Latency: 0.015 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 43852.887 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 76167.807 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 62662.163 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 32044.061 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 31345.659 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 36451.659 blocks/second
+Latency: 0.017 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 30710.173 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 70973.108 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 35247.143 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 40213.635 blocks/second
+Latency: 0.019 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 41864.268 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 32871.084 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 47895.229 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 110726.644 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 42202.440 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 33929.755 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 22920.584 blocks/second
+Latency: 0.020 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 37808.300 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 52848.885 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 74002.341 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 79158.936 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 64808.486 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 66932.479 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 82210.697 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 51027.018 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 143957.712 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 60373.087 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 50327.819 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 83913.792 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 89457.316 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 71009.528 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 61107.332 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 79495.699 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 118228.421 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 182070.339 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 69220.993 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 74520.420 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 80085.090 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 68494.983 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 77571.056 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 84873.601 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 14473.089 blocks/second
+Latency: 0.043 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 26170.517 blocks/second
+Latency: 0.018 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 45277.680 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 64240.903 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 44716.157 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 34944.035 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 29438.822 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 35819.225 blocks/second
+Latency: 0.023 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 41250.403 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 44888.655 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 42489.627 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 32607.311 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 32462.592 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 29899.556 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 50205.923 blocks/second
+Latency: 0.015 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 24565.781 blocks/second
+Latency: 0.019 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 42146.855 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 32698.940 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 44099.914 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 16205.609 blocks/second
+Latency: 0.052 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 45446.476 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 22361.985 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 45746.962 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 16556.720 blocks/second
+Latency: 0.031 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 131349.410 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 35315.216 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 48632.219 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 16472.556 blocks/second
+Latency: 0.021 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 32632.250 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 19039.119 blocks/second
+Latency: 0.036 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 52491.286 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 29913.531 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 10837.355 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 20527.624 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 28302.930 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 16905.501 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 20616.896 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 33799.842 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 18981.241 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 25602.560 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 14949.778 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 6306.817 blocks/second
+Latency: 0.077 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 2618.899 blocks/second
+Latency: 0.241 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 806.978 blocks/second
+Latency: 0.558 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 108.359 blocks/second
+Latency: 1.712 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 819.066 blocks/second
+Latency: 0.394 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 723.477 blocks/second
+Latency: 0.633 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 446.963 blocks/second
+Latency: 0.740 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 95.711 blocks/second
+Latency: 4.217 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 1049.129 blocks/second
+Latency: 0.123 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 3971.270 blocks/second
+Latency: 0.238 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 802.261 blocks/second
+Latency: 0.499 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 1784.233 blocks/second
+Latency: 0.018 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 875.771 blocks/second
+Latency: 0.241 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 598.539 blocks/second
+Latency: 0.590 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 779.148 blocks/second
+Latency: 1.187 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 869.361 blocks/second
+Latency: 0.249 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 4159.490 blocks/second
+Latency: 0.038 miliseconds
+Process 0:
+Total I/O operations 768
+Throughput: 26676.856 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 768000
+Throughput: 77887.188 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 768000
+Throughput: 56383.165 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 768000
+Throughput: 65976.032 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 768000
+Throughput: 66527.052 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 768000
+Throughput: 44777.808 blocks/second
+Latency: 0.019 miliseconds
+Process 0:
+Total I/O operations 768000
+Throughput: 55426.180 blocks/second
+Latency: 0.015 miliseconds
+Process 0:
+<<<<<<< HEAD
+Total I/O operations 768000
+Throughput: 310164.428 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 768000
+Throughput: 310959.374 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 768000
+Throughput: 310048.728 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 768000
+Throughput: 311695.522 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 768000
+Throughput: 227037.171 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 768000
+Throughput: 229392.120 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 16384000
+Throughput: 101435.455 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 16384000
+Throughput: 101412.735 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 16384000
+Throughput: 101575.224 blocks/second
+Latency: 0.008 miliseconds
+=======
+Total I/O operations 512
+Throughput: 30288.689 blocks/second
+Latency: 0.030 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 72872.189 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 120470.588 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 60242.381 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 153431.226 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 184971.098 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 150588.235 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 168976.898 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 142976.822 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 94814.815 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 44743.511 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 58864.107 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 91805.630 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 59149.723 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 173265.651 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 66936.854 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 100530.139 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 49065.644 blocks/second
+Latency: 0.004 miliseconds
+<<<<<<< HEAD
+>>>>>>> 7f19e7d9fb61c32a3c840e71fd43156736edc40a
+Process 0:
+Total I/O operations 16384000
+Throughput: 101108.367 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 51200
+Throughput: 17192.170 blocks/second
+Latency: 0.019 miliseconds
+Process 0:
+Total I/O operations 16384000
+Throughput: 98509.838 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 16384000
+Throughput: 98108.860 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 241118.469 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 241421.332 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 242035.962 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 116764.712 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 117663.058 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 112023.736 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 120807.721 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 121923.875 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 122708.069 blocks/second
+Latency: 0.006 miliseconds
+=======
+Process 0:
+Total I/O operations 512
+Throughput: 21199.073 blocks/second
+Latency: 0.044 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 1158.413 blocks/second
+Latency: 0.749 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 4634.575 blocks/second
+Latency: 0.061 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 4619.729 blocks/second
+Latency: 0.054 miliseconds
+<<<<<<< HEAD
+Process 0:
+Total I/O operations 512
+Throughput: 5604.142 blocks/second
+Latency: 0.034 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 16290.169 blocks/second
+Latency: 0.057 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 23954.337 blocks/second
+Latency: 0.038 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 20470.174 blocks/second
+Latency: 0.045 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 23737.772 blocks/second
+Latency: 0.034 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 24033.045 blocks/second
+Latency: 0.038 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 24113.408 blocks/second
+Latency: 0.038 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 66562.663 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 31677.288 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 25840.315 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 58527.663 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 129456.384 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 59757.236 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 64638.303 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 53562.088 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 57181.148 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 61025.030 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 77929.985 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 41015.781 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 45438.410 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 69499.118 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 71980.880 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 72727.273 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 56412.517 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 1978.797 blocks/second
+Latency: 0.307 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2067.225 blocks/second
+Latency: 0.287 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 32845.779 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 36540.108 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 40267.401 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 38291.826 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 74886.646 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 64112.196 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 75117.371 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 81998.719 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 73956.377 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2041.158 blocks/second
+Latency: 0.294 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2139.645 blocks/second
+Latency: 0.255 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 64248.965 blocks/second
+Latency: 0.012 miliseconds
+=======
+>>>>>>> 324cffb57c283ac891af6d4cdc4bca3d2bebbcf3
+<<<<<<< HEAD
+Process 0:
+Total I/O operations 16777216
+Throughput: 114982.921 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 115991.209 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 117212.439 blocks/second
+Latency: 0.006 miliseconds
+=======
+>>>>>>> ae4731d2fbf947e9cdfa5eed0556c4ad8b7c905c
+<<<<<<< HEAD
+Process 0:
+Total I/O operations 512
+Throughput: 82620.623 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2568.244 blocks/second
+Latency: 0.218 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2760.897 blocks/second
+Latency: 0.219 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2502.052 blocks/second
+Latency: 0.212 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2885.239 blocks/second
+Latency: 0.214 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 3303.759 blocks/second
+Latency: 0.142 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2886.621 blocks/second
+Latency: 0.188 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2683.354 blocks/second
+Latency: 0.229 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 1999.602 blocks/second
+Latency: 0.271 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2421.548 blocks/second
+Latency: 0.251 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2539.103 blocks/second
+Latency: 0.241 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2149.337 blocks/second
+Latency: 0.367 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2168.058 blocks/second
+Latency: 0.384 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 3794.870 blocks/second
+Latency: 0.168 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 52550.549 blocks/second
+Latency: 0.016 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 25057.505 blocks/second
+Latency: 0.036 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 120612.485 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 153155.848 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 25600
+Throughput: 184596.304 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512000
+Throughput: 86829.330 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 160100.063 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 161718.256 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 134878.820 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 18287.021 blocks/second
+Latency: 0.047 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 154309.825 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 30382.150 blocks/second
+Latency: 0.029 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 158513.932 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 163787.588 blocks/second
+Latency: 0.003 miliseconds
+=======
+>>>>>>> d03396af378856efb60ddaf20ec2c207b29da4a6
+>>>>>>> 211995f56039db95869b861fe0aeae4f2ce28db8
+Process 0:
+Total I/O operations 512
+Throughput: 129587.446 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 165642.187 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 30828.516 blocks/second
+Latency: 0.030 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 33483.749 blocks/second
+Latency: 0.023 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 156288.156 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 61258.674 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 34485.081 blocks/second
+Latency: 0.026 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 25296.443 blocks/second
+Latency: 0.023 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 54829.728 blocks/second
+Latency: 0.015 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 67706.956 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 48393.195 blocks/second
+Latency: 0.017 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 159551.262 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 105328.122 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 85276.482 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 35373.774 blocks/second
+Latency: 0.025 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 152881.457 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 31527.094 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 112231.477 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 44853.263 blocks/second
+Latency: 0.019 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 87972.509 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 17539.653 blocks/second
+Latency: 0.054 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2425.885 blocks/second
+Latency: 0.204 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2573.045 blocks/second
+Latency: 0.194 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 170099.668 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 100411.845 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 156574.924 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 167374.959 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 174090.445 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 188512.518 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 173500.508 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 68863.484 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 186588.921 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 168531.929 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 158858.207 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 85949.303 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 161667.193 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 167156.383 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 173736.003 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 97468.113 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 164365.971 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 161616.162 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 179020.979 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 181110.718 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 142222.222 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 73626.690 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 160350.767 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 171927.468 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 154124.022 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 111231.805 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 119042.083 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 160703.076 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 114387.846 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 119794.104 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 150721.225 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 148148.148 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 153110.048 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 111231.805 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 114464.565 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 114132.858 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 113074.205 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 58254.636 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 150058.617 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 155670.417 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 60405.852 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 144960.362 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 98994.586 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 149620.105 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 75051.305 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 104128.534 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 115915.780 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 154823.103 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 109098.658 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 158563.023 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 115445.321 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 109942.023 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 35201.100 blocks/second
+Latency: 0.025 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 128514.056 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 106135.987 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 70698.702 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 96060.038 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 101910.828 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 51628.517 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 108062.474 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 28975.665 blocks/second
+Latency: 0.031 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 113828.368 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 62545.810 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 61560.659 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 110918.544 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 113374.668 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 75986.940 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 74897.601 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 62976.630 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 69151.810 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 100234.926 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 166883.963 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 164207.826 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 109777.015 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 117755.290 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 768
+Throughput: 148520.596 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 116575.592 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 1024
+Throughput: 197683.398 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 118190.212 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 105964.651 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 25600
+Throughput: 156720.621 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 25600
+Throughput: 113271.329 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256000
+Throughput: 224577.163 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 185858.678 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 115523.466 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 119906.323 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 117404.265 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 68266.667 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 118190.212 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 44661.549 blocks/second
+Latency: 0.019 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 114336.757 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 40219.953 blocks/second
+Latency: 0.022 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 54782.795 blocks/second
+Latency: 0.015 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 50683.033 blocks/second
+Latency: 0.016 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 157344.806 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 49506.865 blocks/second
+Latency: 0.017 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 64859.387 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 1013.071 blocks/second
+Latency: 0.978 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 1011.364 blocks/second
+Latency: 0.981 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 887.462 blocks/second
+Latency: 1.117 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 1097.657 blocks/second
+Latency: 0.901 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 978.601 blocks/second
+Latency: 1.012 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 52437.526 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 1111.024 blocks/second
+Latency: 0.890 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 8054.367 blocks/second
+Latency: 0.118 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 8716.971 blocks/second
+Latency: 0.109 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 109918.420 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 65759.055 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 50557.914 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 42380.598 blocks/second
+Latency: 0.020 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 150588.235 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 106911.673 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 61970.467 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 78612.007 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 105675.955 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 72644.722 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 136935.009 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 121673.004 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 768
+Throughput: 90726.521 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 768
+Throughput: 174505.794 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 768
+Throughput: 62176.166 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 768
+Throughput: 106165.330 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 768
+Throughput: 88919.764 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 768
+Throughput: 118867.048 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 1024
+Throughput: 102790.604 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 768
+Throughput: 161820.480 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 1024
+Throughput: 92896.671 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 1024
+Throughput: 79831.605 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 768
+Throughput: 61602.631 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 1280
+Throughput: 113838.492 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 90077.921 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 100294.290 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 102585.997 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 79711.724 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 4043.772 blocks/second
+Latency: 0.240 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 4788.739 blocks/second
+Latency: 0.203 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 3886.774 blocks/second
+Latency: 0.250 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 102658.431 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 189629.630 blocks/second
+Latency: 0.002 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 160652.651 blocks/second
+Latency: 0.003 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 38169.077 blocks/second
+Latency: 0.023 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 112626.485 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 142857.143 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 72285.755 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 72244.956 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 39378.557 blocks/second
+Latency: 0.022 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 2655.037 blocks/second
+Latency: 0.199 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 93755.722 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 65945.389 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 73226.545 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 69707.284 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 512
+Throughput: 61486.730 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 1536
+Throughput: 118573.414 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 4137.461 blocks/second
+Latency: 0.096 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3594.324 blocks/second
+Latency: 0.136 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3508.676 blocks/second
+Latency: 0.129 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3467.608 blocks/second
+Latency: 0.113 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3471.629 blocks/second
+Latency: 0.125 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3578.578 blocks/second
+Latency: 0.139 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3331.160 blocks/second
+Latency: 0.158 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3491.096 blocks/second
+Latency: 0.128 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3300.432 blocks/second
+Latency: 0.135 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3260.715 blocks/second
+Latency: 0.138 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3381.641 blocks/second
+Latency: 0.139 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3379.654 blocks/second
+Latency: 0.159 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3415.615 blocks/second
+Latency: 0.164 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3474.107 blocks/second
+Latency: 0.137 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3554.667 blocks/second
+Latency: 0.158 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3294.740 blocks/second
+Latency: 0.139 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3448.327 blocks/second
+Latency: 0.128 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3301.475 blocks/second
+Latency: 0.126 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3236.078 blocks/second
+Latency: 0.130 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3451.861 blocks/second
+Latency: 0.157 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3381.118 blocks/second
+Latency: 0.108 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 5624.692 blocks/second
+Latency: 0.039 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 4590.084 blocks/second
+Latency: 0.101 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3406.452 blocks/second
+Latency: 0.129 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 3630.922 blocks/second
+Latency: 0.124 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 3740.949 blocks/second
+Latency: 0.263 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 98774.215 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 76275.250 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 97004.180 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 89012.548 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 2806.366 blocks/second
+Latency: 0.276 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 8426.197 blocks/second
+Latency: 0.044 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 8314.381 blocks/second
+Latency: 0.045 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 77186.399 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 67817.377 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 87469.678 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 77679.086 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 87798.287 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 9983.557 blocks/second
+Latency: 0.037 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 8308.365 blocks/second
+Latency: 0.044 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 49344.641 blocks/second
+Latency: 0.016 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 78320.994 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 104052.351 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 71051.901 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 82976.792 blocks/second
+Latency: 0.009 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 82920.351 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 73924.343 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 67147.541 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 7961.381 blocks/second
+Latency: 0.046 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 7946.445 blocks/second
+Latency: 0.046 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 8511.927 blocks/second
+Latency: 0.043 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 56323.154 blocks/second
+Latency: 0.015 miliseconds
+Process 0:
+Total I/O operations 25600
+Throughput: 103942.085 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 64509.626 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 5120
+Throughput: 62057.597 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 6473.435 blocks/second
+Latency: 0.056 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 10614.328 blocks/second
+Latency: 0.035 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 9102.399 blocks/second
+Latency: 0.041 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 3221.690 blocks/second
+Latency: 0.219 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 21695.183 blocks/second
+Latency: 0.042 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 58387.579 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 65652.517 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 73538.351 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 11038.178 blocks/second
+Latency: 0.033 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 84308.242 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 77191.240 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 88443.481 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 80060.862 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 80573.243 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 71007.116 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 11391.115 blocks/second
+Latency: 0.032 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 78169.221 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 18102.628 blocks/second
+Latency: 0.052 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 15091.813 blocks/second
+Latency: 0.063 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 42517.854 blocks/second
+Latency: 0.017 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 58221.515 blocks/second
+Latency: 0.012 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 33381.145 blocks/second
+Latency: 0.025 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 100195.695 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 57644.675 blocks/second
+Latency: 0.013 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 33359.395 blocks/second
+Latency: 0.025 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 28482.421 blocks/second
+Latency: 0.030 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 47557.124 blocks/second
+Latency: 0.016 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 46929.423 blocks/second
+Latency: 0.017 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 40075.141 blocks/second
+Latency: 0.011 miliseconds
+Process 0:
+Total I/O operations 768
+Throughput: 90555.359 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 79535.216 blocks/second
+Latency: 0.010 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 11327.747 blocks/second
+Latency: 0.085 miliseconds
+Process 0:
+Total I/O operations 2560
+Throughput: 52571.053 blocks/second
+Latency: 0.014 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 2747.255 blocks/second
+Latency: 0.276 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 23042.673 blocks/second
+Latency: 0.039 miliseconds
+Process 0:
+Total I/O operations 262144
+Throughput: 74066.226 blocks/second
+Latency: 0.008 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 378.738 blocks/second
+Latency: 2.579 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 4659.105 blocks/second
+Latency: 0.210 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 3565.939 blocks/second
+Latency: 0.275 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 74638.320 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 82883.560 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 72401.519 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 524288
+Throughput: 84078.843 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 91950.354 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 110733.730 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 95902.950 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 103341.141 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 12964.269 blocks/second
+Latency: 0.028 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 10589.492 blocks/second
+Latency: 0.035 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 10468.178 blocks/second
+Latency: 0.035 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 11116.843 blocks/second
+Latency: 0.033 miliseconds
+Process 0:
+<<<<<<< HEAD
+<<<<<<< HEAD
+Unique Blocks Written 8556800
+Duplicated Blocks Written 12003857
+Total I/O operations 16777216
+Throughput: 119118.045 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8553278
+Duplicated Blocks Written 12005562
+Total I/O operations 16777216
+Throughput: 119805.979 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8556814
+Duplicated Blocks Written 12003821
+Total I/O operations 16777216
+Throughput: 119817.663 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8550497
+Duplicated Blocks Written 12006982
+Total I/O operations 16777216
+Throughput: 118776.068 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8546414
+Duplicated Blocks Written 12009029
+Total I/O operations 16777216
+Throughput: 118415.642 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8552569
+Duplicated Blocks Written 12005965
+Total I/O operations 16777216
+Throughput: 118879.140 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8553302
+Duplicated Blocks Written 12005596
+Total I/O operations 16777216
+Throughput: 118617.812 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8554206
+Duplicated Blocks Written 12005147
+Total I/O operations 16777216
+Throughput: 118675.771 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8555130
+Duplicated Blocks Written 12004683
+Total I/O operations 16777216
+Throughput: 118508.256 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8552327
+Duplicated Blocks Written 12006062
+Total I/O operations 16777216
+Throughput: 118426.581 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8555005
+Duplicated Blocks Written 12004757
+Total I/O operations 16777216
+Throughput: 118633.093 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8551378
+Duplicated Blocks Written 12006549
+Total I/O operations 16777216
+Throughput: 118373.204 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8560130
+Duplicated Blocks Written 12002141
+Total I/O operations 16777216
+Throughput: 118473.649 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8556905
+Duplicated Blocks Written 12003780
+Total I/O operations 16777216
+Throughput: 117839.351 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8555936
+Duplicated Blocks Written 12004314
+Total I/O operations 16777216
+Throughput: 118417.553 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8547448
+Duplicated Blocks Written 12008522
+Total I/O operations 16777216
+Throughput: 118536.631 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8556674
+Duplicated Blocks Written 12003892
+Total I/O operations 16777216
+Throughput: 116112.549 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8556926
+Duplicated Blocks Written 12003813
+Total I/O operations 16777216
+Throughput: 116700.068 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8553035
+Duplicated Blocks Written 12005754
+Total I/O operations 16777216
+Throughput: 116931.501 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8548195
+Duplicated Blocks Written 12008134
+Total I/O operations 16777216
+Throughput: 117894.716 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8551411
+Duplicated Blocks Written 12006544
+Total I/O operations 16777216
+Throughput: 118636.205 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8556963
+Duplicated Blocks Written 12003759
+Total I/O operations 16777216
+Throughput: 110037.124 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Unique Blocks Written 8550731
+Duplicated Blocks Written 12006845
+Total I/O operations 16777216
+Throughput: 118635.002 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8555197
+Duplicated Blocks Written 12004646
+Total I/O operations 16777216
+Throughput: 116078.577 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8553444
+Duplicated Blocks Written 12005506
+Total I/O operations 16777216
+Throughput: 115783.808 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8548248
+Duplicated Blocks Written 12008101
+Total I/O operations 16777216
+Throughput: 116221.207 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8551596
+Duplicated Blocks Written 12006423
+Total I/O operations 16777216
+Throughput: 24281.265 blocks/second
+Latency: 0.036 miliseconds
+Process 0:
+Unique Blocks Written 8549289
+Duplicated Blocks Written 12007581
+Total I/O operations 16777216
+Throughput: 24330.984 blocks/second
+Latency: 0.036 miliseconds
+Process 0:
+Unique Blocks Written 8555488
+Duplicated Blocks Written 12004491
+Total I/O operations 16777216
+Throughput: 24233.540 blocks/second
+Latency: 0.036 miliseconds
+Process 0:
+Unique Blocks Written 8549984
+Duplicated Blocks Written 12007223
+Total I/O operations 16777216
+Throughput: 24210.791 blocks/second
+Latency: 0.036 miliseconds
+Process 0:
+Unique Blocks Written 8554431
+Duplicated Blocks Written 12005013
+Total I/O operations 16777216
+Throughput: 24308.597 blocks/second
+Latency: 0.036 miliseconds
+Process 0:
+Unique Blocks Written 8553048
+Duplicated Blocks Written 12005729
+Total I/O operations 16777216
+Throughput: 115163.882 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8550011
+Duplicated Blocks Written 12007220
+Total I/O operations 16777216
+Throughput: 114939.032 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8553569
+Duplicated Blocks Written 12005464
+Total I/O operations 16777216
+Throughput: 116969.233 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8552520
+Duplicated Blocks Written 12006011
+Total I/O operations 16777216
+Throughput: 118291.957 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8554847
+Duplicated Blocks Written 12004803
+Total I/O operations 16777216
+Throughput: 117587.947 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8553351
+Duplicated Blocks Written 12005544
+Total I/O operations 16777216
+Throughput: 117534.482 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8553012
+Duplicated Blocks Written 12005718
+Total I/O operations 16777216
+Throughput: 118573.861 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8554388
+Duplicated Blocks Written 12005075
+Total I/O operations 16777216
+Throughput: 118691.439 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8555977
+Duplicated Blocks Written 12004219
+Total I/O operations 16777216
+Throughput: 118520.180 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8557484
+Duplicated Blocks Written 12003506
+Total I/O operations 16777216
+Throughput: 118611.070 blocks/second
+Latency: 0.005 miliseconds
+=======
+=======
+>>>>>>> 6e2f860d7381cdcb589862220da5918a997ff92d
+Total I/O operations 256
+<<<<<<< HEAD
+Throughput: 8361.641 blocks/second
+Latency: 0.117 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 20567.205 blocks/second
+Latency: 0.046 miliseconds
+Process 0:
+Total I/O operations 6536569
+Throughput: 5449.598 blocks/second
+Latency: 0.179 miliseconds
+Process 0:
+Total I/O operations 6059239
+Throughput: 5053.117 blocks/second
+Latency: 0.193 miliseconds
+Process 0:
+Total I/O operations 6865871
+Throughput: 5722.765 blocks/second
+Latency: 0.169 miliseconds
+Process 0:
+Total I/O operations 11088896
+Throughput: 9241.754 blocks/second
+Latency: 0.105 miliseconds
+Process 0:
+Total I/O operations 12458883
+Throughput: 10386.670 blocks/second
+Latency: 0.092 miliseconds
+Process 0:
+Total I/O operations 12442898
+Throughput: 10369.767 blocks/second
+Latency: 0.093 miliseconds
+Process 0:
+Total I/O operations 11113540
+Throughput: 9266.394 blocks/second
+Latency: 0.104 miliseconds
+Process 0:
+Total I/O operations 10838092
+Throughput: 9036.452 blocks/second
+Latency: 0.107 miliseconds
+Process 0:
+Total I/O operations 10623354
+Throughput: 8854.804 blocks/second
+Latency: 0.109 miliseconds
+Process 0:
+Total I/O operations 10840417
+Throughput: 9040.110 blocks/second
+Latency: 0.107 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 9823.750 blocks/second
+Latency: 0.098 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 9844.457 blocks/second
+Latency: 0.098 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 10074.924 blocks/second
+Latency: 0.096 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 9979.753 blocks/second
+Latency: 0.096 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 9951.729 blocks/second
+Latency: 0.097 miliseconds
+Process 0:
+Unique Blocks Written 8560504
+Duplicated Blocks Written 12002013
+Total I/O operations 16777216
+Throughput: 119183.884 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8560504
+Duplicated Blocks Written 12002013
+Total I/O operations 16777216
+Throughput: 119067.680 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8560504
+Duplicated Blocks Written 12002013
+Total I/O operations 16777216
+Throughput: 118144.995 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8560504
+Duplicated Blocks Written 12002013
+Total I/O operations 16777216
+Throughput: 115961.890 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8560504
+Duplicated Blocks Written 12002013
+Total I/O operations 16777216
+Throughput: 115754.664 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Unique Blocks Written 8560504
+Duplicated Blocks Written 12002013
+Total I/O operations 16777216
+Throughput: 115263.903 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 13959.027 blocks/second
+Latency: 0.069 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11419.169 blocks/second
+Latency: 0.085 miliseconds
+=======
+Throughput: 124332.200 blocks/second
+Latency: 0.004 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 39770.079 blocks/second
+Latency: 0.022 miliseconds
+Process 0:
+Total I/O operations 256
+Throughput: 2305.891 blocks/second
+Latency: 0.290 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 10437.491 blocks/second
+Latency: 0.035 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 110471.229 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 113107.759 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 112829.221 blocks/second
+Latency: 0.005 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 87392.185 blocks/second
+Latency: 0.007 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 114029.606 blocks/second
+Latency: 0.005 miliseconds
+<<<<<<< HEAD
+>>>>>>> 8c9da43d3093ab3e30eecc05aa835c781768bc28
+Process 0:
+Total I/O operations 16777216
+Throughput: 14580.522 blocks/second
+Latency: 0.066 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11875.354 blocks/second
+Latency: 0.081 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11906.084 blocks/second
+Latency: 0.081 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11864.106 blocks/second
+Latency: 0.081 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11829.286 blocks/second
+Latency: 0.082 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11464.827 blocks/second
+Latency: 0.084 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11257.005 blocks/second
+Latency: 0.086 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11158.312 blocks/second
+Latency: 0.087 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11330.252 blocks/second
+Latency: 0.085 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11401.389 blocks/second
+Latency: 0.085 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11350.685 blocks/second
+Latency: 0.085 miliseconds
+=======
+Process 0:
+Total I/O operations 1048576
+Throughput: 101313.091 blocks/second
+Latency: 0.006 miliseconds
+Process 0:
+Total I/O operations 1048576
+Throughput: 98003.775 blocks/second
+Latency: 0.006 miliseconds
+>>>>>>> a4f76b064d9c97223d085b54b8858d598086b6f5
+<<<<<<< HEAD
+Process 0:
+Total I/O operations 16777216
+Throughput: 11438.251 blocks/second
+Latency: 0.084 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11421.567 blocks/second
+Latency: 0.084 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11155.015 blocks/second
+Latency: 0.087 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11378.104 blocks/second
+Latency: 0.085 miliseconds
+Process 0:
+Total I/O operations 16777216
+Throughput: 11348.965 blocks/second
+Latency: 0.085 miliseconds
+=======
+<<<<<<< HEAD
+>>>>>>> 6e2f860d7381cdcb589862220da5918a997ff92d
+=======
+>>>>>>> 6e2f860d7381cdcb589862220da5918a997ff92d
+>>>>>>> 5aad22deb74b14324a2db10253d2ddeb3aaffcb1

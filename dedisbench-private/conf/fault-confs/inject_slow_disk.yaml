@@ -1,0 +1,135 @@
+faults:
+ mode_offset:
+  next_block:
+    persistent:
+     write:
+      slow_disk:
+        - when_operation: 262143
+          delay: 10000
+        - when_operation: 524287
+          delay: 10000
+        - when_operation: 786431
+          delay: 10000
+        - when_operation: 1048575
+          delay: 10000
+        - when_operation: 1310719
+          delay: 10000
+        - when_operation: 1572863
+          delay: 10000
+        - when_operation: 1835007
+          delay: 10000
+        - when_operation: 2097151
+          delay: 10000
+        - when_operation: 2359295
+          delay: 10000
+        - when_operation: 2621439
+          delay: 10000
+        - when_operation: 2883583
+          delay: 10000
+        - when_operation: 3145727
+          delay: 10000
+        - when_operation: 3407871
+          delay: 10000
+        - when_operation: 3670015
+          delay: 10000
+        - when_operation: 3932159
+          delay: 10000
+        - when_operation: 4194303
+          delay: 10000
+        - when_operation: 4456447
+          delay: 10000
+        - when_operation: 4718591
+          delay: 10000
+        - when_operation: 4980735
+          delay: 10000
+        - when_operation: 5242879
+          delay: 10000
+        - when_operation: 5505023
+          delay: 10000
+        - when_operation: 5767167
+          delay: 10000
+        - when_operation: 6029311
+          delay: 10000
+        - when_operation: 6291455
+          delay: 10000
+        - when_operation: 6553599
+          delay: 10000
+        - when_operation: 6815743
+          delay: 10000
+        - when_operation: 7077887
+          delay: 10000
+        - when_operation: 7340031
+          delay: 10000
+        - when_operation: 7602175
+          delay: 10000
+        - when_operation: 7864319
+          delay: 10000
+        - when_operation: 8126463
+          delay: 10000
+        - when_operation: 8388607
+          delay: 10000
+        - when_operation: 8650751
+          delay: 10000
+        - when_operation: 8912895
+          delay: 10000
+        - when_operation: 9175039
+          delay: 10000
+        - when_operation: 9437183
+          delay: 10000
+        - when_operation: 9699327
+          delay: 10000
+        - when_operation: 9961471
+          delay: 10000
+        - when_operation: 10223615
+          delay: 10000
+        - when_operation: 10485759
+          delay: 10000
+        - when_operation: 10747903
+          delay: 10000
+        - when_operation: 11010047
+          delay: 10000
+        - when_operation: 11272191
+          delay: 10000
+        - when_operation: 11534335
+          delay: 10000
+        - when_operation: 11796479
+          delay: 10000
+        - when_operation: 12058623
+          delay: 10000
+        - when_operation: 12320767
+          delay: 10000
+        - when_operation: 12582911
+          delay: 10000
+        - when_operation: 12845055
+          delay: 10000
+        - when_operation: 13107199
+          delay: 10000
+        - when_operation: 13369343
+          delay: 10000
+        - when_operation: 13631487
+          delay: 10000
+        - when_operation: 13893631
+          delay: 10000
+        - when_operation: 14155775
+          delay: 10000
+        - when_operation: 14417919
+          delay: 10000
+        - when_operation: 14680063
+          delay: 10000
+        - when_operation: 14942207
+          delay: 10000
+        - when_operation: 15204351
+          delay: 10000
+        - when_operation: 15466495
+          delay: 10000
+        - when_operation: 15728639
+          delay: 10000
+        - when_operation: 15990783
+          delay: 10000
+        - when_operation: 16252927
+          delay: 10000
+        - when_operation: 16515071
+          delay: 10000
+        - when_operation: 16777215
+          delay: 10000
+
