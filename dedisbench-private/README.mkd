@@ -40,6 +40,18 @@ With DEDISgen we also pack DEDISgenutils that may be needed for performing more 
 
 Finally, if one wishes to view the benchmark's results in a little more nicely manner, both DEDISbench and DEDISgen output the files needed to plot some of their results with gnuplot.
 
+# Fault configuration
+
+Fault configuration is defined by the user in a YAML file and should be defined in a configuration file option (explained later). These configurations are loaded before the benchmarking process begins and if more than one process is used for DEDISBench generated faults are distributed in round-robin for all processes. All faults should be defined inside a "faults" block in YAML. To define a fault the following attributes should be defined:
+- type: `"medium_error"/"bit_flip"/"slow_disk"` (a block inaccessible, corrupted or slowed by block device, respectively);
+- operation: `"write"/"read"/"write_read"/"none"` (a fault is injected only in a write, read, write or read operation. "none" is useful for initial testing or to check performance, in this case, no fault is injected.);
+- persistent or transient: `"yes"/"no"` (defines if the injected fault is persistent or transient);
+- mode: `"mode_hash"/"mode_offset"/"mode_dedup"/"mode_disk"` (modes allow the user to control how the fault is identified in the block device layer, mode_hash is recommended for file systems, mode_offset for block devices, mode_dedup for file systems or block devices with deduplication, mode_disk for faults affecting all blocks in the disk);
+- when_operation or when_time : a `positive integer `(this defines when a fault should be injected (at X operation or after, at least, X milliseconds after the benchmarking starts, respectively));
+- target : `"last_block"/"next_block"/"top_block"/"unique_block"` (allows the user to target the last or next block in the DEDISBench workload, the block which is most duplicated or a block without duplicates);
+- delay (OPTIONAL, only for faults of type "slow_disk"): a `positive integer` (number of milliseconds used to slow the block).
+
+To prevent targeting the same block an option "avoid_repeatable_faults" should be enabled ("avoid_repeatable_faults": "yes"). This prevents injecting faults in blocks with the same content when choosing the target "top_block".
 
 # Instalation.
 
@@ -108,21 +120,7 @@ Required flags
 
  seed=`value`					Seed for random generator (default:current time). Usefull for repeating
 
- 
- faulttimer=`value`         Inject failure at a specific time period, each failure operation must be in the format `type_failure`:`failure_distribution`:`time_to_inject (minutes)`. 
-                            Type of failures are 0 - fill 1 - fill and 2 - fill. 
-                            Failure distribution:   0 - follow content generation distribution, 
-                                                     1 - inject in the block with more duplicates, 
-                                                     2 - inject in the block with less duplicates, 
-                                                     3 - inject in a block without duplicates.
- 
- 
- faultops=`value`           Inject failure at a specific number of operations, each failure operation must be in the format `type_failurer`:`failure_distribution`:`number_operations`. 
-                             Type of failures are 0 - fill 1 - fill and 2 - fill. 
-                             Failure distribution:   0 - follow content generation distribution, 
-                                                     1 - inject in the block with more duplicates, 
-                                                     2 - inject in the block with less duplicates, 
-                                                     3 - inject in a block without duplicates.
+faultsconfig=`value`          Path to the faults' YAML configuration file
 
 ## [results] section
 
@@ -201,26 +199,6 @@ config.ini
 rawdevice=path/to/rawdevice
 ```
 
-# Failure injection
-
- Type of failures are 0 - fill 1 - fill and 2 - fill. 
- Failure distribution 0 - follow content generation distribution, 1 - inject in the block with more duplicates, 2 - inject in the block with less duplicates, 3 - inject in a block without duplicates.
- 
- Failure injection for single read tests is only supported with realistic population of files enabled.
- 
- Failure type following content generation distribution is not supported for single read tests.
-           
- 
- Examples:
- 
- Inject a failure of type 0 with distribution 1 at 2 minutes and inject a failure of type 1 and distribution 2 at 5 minutes.
- 
- faulttimer=0:1:2,1:2:5
- 	
- Inject a failure of type 0 with distribution 1 at 1000 operations and inject a failure of type 1 and distribution 2 at 20000 operations
- 
- faultops=0:1:1000,1:2:20000
-
 # Running the generator DEDISgen:
 
  -f or -d       Find duplicates in folder -f or in a Disk Device -d
@@ -292,15 +270,3 @@ generate output with distribution for db1+db2
 
 For more information please contact:
 Joao Paulo jtpaulo at di.uminho.pt
-
-
-
-
-
-
-
-
-
-
-
-	
